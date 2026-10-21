@@ -1,0 +1,23 @@
+seller_state,"COUNT(distinct orders.order_id)"
+SP,68641
+MG,7735
+PR,7512
+RJ,4227
+SC,3603
+RS,1962
+DF,808
+BA,550
+GO,451
+PE,403
+MA,389
+ES,310
+MT,136
+CE,87
+RN,51
+MS,49
+PB,35
+RO,14
+PI,11
+SE,9
+PA,8
+AM,3
