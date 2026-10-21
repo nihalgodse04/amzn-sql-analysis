@@ -8,6 +8,7 @@ are framed around Amazon Brazil.
 - `queries/`: one SQL file per question
 - `report/`: full report (problem, query, results, business insight)
 - `docs/`: data dictionary
+- `query-output/`: sql workbench putputs for each query
 
 ## Skills demonstrated
 Joins, anti-joins, CTEs, window functions (running totals, median),
@@ -21,8 +22,8 @@ aggregation, avoiding double counting across order/item grain.
 - Orders peaked in November 2017 (7,544), around Black Friday
 
 ## Dataset
-Olist Brazilian E-Commerce Public Dataset (Kaggle). Not included in
+Brazilian E-Commerce Public Dataset (Kaggle). Not included in
 this repo due to size.
 
 ## Author
-Nihal Godse
+Nihal S. Godse
